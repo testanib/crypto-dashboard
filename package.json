@@ -7,6 +7,7 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.24.0",
+    "dotenv": "^12.0.3",
     "generate-component-react": "^1.0.2",
     "generate-react-cli": "^7.0.4",
     "react": "^17.0.2",
@@ -39,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "sass": "^1.47.0"
   }
 }
