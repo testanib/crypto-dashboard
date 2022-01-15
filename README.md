@@ -1,3 +1,7 @@
+A crypto dashboard in react providing fast and easy conversion rate estimates as well as some of the latest crypto news.
+
+Plans to add fee estimation for different currencies aswell.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
